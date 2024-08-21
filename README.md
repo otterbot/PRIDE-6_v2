@@ -1,1 +1,1 @@
-# PRIDE-6_v2
+# muOS Overlays: PRIDE-6 v2
