@@ -36,7 +36,7 @@ Crop Overscan: **ON**
 # GBA Usage
 While playing a game, open the quick menu and go to `On-Screen Overlay > Overlay Preset`.
 
-Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gba > PRIDE-6` or `OtterBot > gba > PRIDE-6 v2` and pick the overlay you prefer.
+Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gba >` then choose between **PRIDE-6** or **PRIDE-6 v2** and pick the overlay you prefer within either of those folders.
 
 Go back to the Quick Menu and then go to **Overrides**.
 
