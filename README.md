@@ -3,6 +3,7 @@
 Included are Gameboy Advance SP and Gameboy Color overlays with normal and holo-style bezels, with and without grids, with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
 ![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/GBA%20Pride-6%20v2.png?raw=true)
+![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/GBC%20Pride-6%20v2.png?raw=true)
 
 # File Placement
 Move the **OtterBot** folder to `mmc > MUOS > retroarch > overlays`
