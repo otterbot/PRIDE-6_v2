@@ -1,4 +1,4 @@
-# Under Construction - Not yet complete
+I didn't quite like the first version that I made as much as I was hoping I would. Enter, PRIDE-6 v2. An updated design with some extra overlays for Gameboy Color. I'll include the original PRIDE-6 overlays, just in case you'd like to have that option, but if you like v1 more than v2, feel free to head on over to the [v1 repository](https://github.com/otterbot/muOS-Overlays-PRIDE-6/tree/main).
 
 Included are Gameboy Advance SP and Gameboy Color overlays with normal and holo-style bezels, with and without grids, with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
@@ -9,30 +9,44 @@ Included are Gameboy Advance SP and Gameboy Color overlays with normal and holo-
 Move the **OtterBot** folder to `mmc > MUOS > retroarch > overlays`
 
 # GBA Configuration
-Instructions are included in the config files on how to set this up, but just in case, here are the instructions:
 
-Use with `Main Menu > Settings > Video > Scaling > Integer Scale` set to **Off**
+Open a GBA game, then the Quick Menu, and go back to the main menu. Then go to `Settings > Video > Scaling`.
 
-Aspect Ratio : **Custom**
+Integer Scale: **Off**
 
-Custom Aspect Ratio (Width) : **640**
+Aspect Ratio: **Custom**
 
-Custom Aspect Ratio (Height) : **426**
+Custom Aspect Ratio (X Position): **0**
+
+Custom Aspect Ratio (Y Position): **0**
+
+Custom Aspect Ratio (Width): **640**
+
+Custom Aspect Ratio (Height): **426**
+
+Bilinear Filtering: **OFF**
+
+Crop Overscan: **ON**
 
 # GBC Configuration
-Instructions are included in the config files on how to set this up, but just in case, here are the instructions:
 
-GRH Ratio: **Custom**
+Open a GBC game, then the Quick Menu, and go back to the main menu. Then go to `Settings > Video > Scaling`.
 
-GRH Interger Scale: **0**
+Interger Scale: **Off**
 
-GRH Custom Viewport Width: **480**
+Aspect Ratio: **Custom**
 
-GRH Custom Viewport Width: **432**
+Custom Aspect Ratio (X Position): **80**
 
-GRH Custom Viewport X: **80**
+Custom Aspect Ratio (Y Position): **24**
 
-GRH Custom Viewport Y: **24**
+Custom Aspect Ratio (Width): **480 (3x)**
+
+Custom Aspect Ratio (Height): **432 (3x)**
+
+Bilinear Filtering: **OFF**
+
+Crop Overscan: **ON**
 
 # Usage
 While playing a game, open the quick menu and go to `On-Screen Overlay > Overlay Preset`.
