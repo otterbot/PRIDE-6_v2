@@ -3,9 +3,10 @@ I didn't quite like the first version that I made as much as I was hoping I woul
 
 Included are Gameboy Advance SP and Gameboy Color overlays with normal and holo-style bezels, with and without grids, with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
-# Gameboy Advance SP/micro Overlays:
+# Gameboy Advance SP:
 ![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/GBA%20Pride-6%20v2.png?raw=true)
 
+# Gameboy micro Overlays:
 ![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/micro%20Pride-6%20v2.png?raw=true)
 
 # Gameboy Color Overlays:
