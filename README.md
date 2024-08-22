@@ -3,8 +3,10 @@ I didn't quite like the first version that I made as much as I was hoping I woul
 
 Included are Gameboy Advance SP and Gameboy Color overlays with normal and holo-style bezels, with and without grids, with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
-# Gameboy Advance SP Overlays:
+# Gameboy Advance SP/micro Overlays:
 ![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/GBA%20Pride-6%20v2.png?raw=true)
+
+![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/micro%20Pride-6%20v2.png?raw=true)
 
 # Gameboy Color Overlays:
 ![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6-v2/blob/main/GBC%20Pride-6%20v2.png?raw=true)
@@ -14,7 +16,7 @@ NOTE: You can put these wherever you want, really so long as you can navigate to
 
 Move the **OtterBot** folder to `mmc > MUOS > retroarch > overlays`
 
-# GBA Configuration
+# Gameboy Advance SP/Gameboy micro Configuration
 Open a GBA game, then the Quick Menu, and go back to the main menu. Then go to `Settings > Video > Scaling`.
 
 Integer Scale: **Off**
@@ -33,10 +35,10 @@ Bilinear Filtering: **OFF**
 
 Crop Overscan: **ON**
 
-# GBA Usage
+# Gameboy Advance SP/Gameboy micro Usage
 While playing a game, open the quick menu and go to `On-Screen Overlay > Overlay Preset`.
 
-Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gba >` then choose between **PRIDE-6** or **PRIDE-6 v2** and pick the overlay you prefer within either of those folders.
+Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gba` then choose between **PRIDE-6** or **PRIDE-6 v2** and pick the overlay you prefer within either of those folders. **For Gameboy micro overlays, go to `Otterbot > micro` and pick the overlay you prefer.**
 
 Go back to the Quick Menu and then go to **Overrides**.
 
@@ -44,7 +46,7 @@ If you want the selected bezel for all GBA games, select **Save Content Director
 
 If you want the selected bezel for just the current GBA game, select **Save Game Overrides**.
 
-# GBC Configuration
+# Gameboy Color Configuration
 Open a GBC game, then the Quick Menu, and go back to the main menu. Then go to `Settings > Video > Scaling`.
 
 Interger Scale: **Off**
@@ -63,7 +65,7 @@ Bilinear Filtering: **OFF**
 
 Crop Overscan: **ON**
 
-# GBC Usage
+# Gameboy Color Usage
 While playing a game, open the quick menu and go to `On-Screen Overlay > Overlay Preset`.
 
 Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gbc` and pick the overlay you prefer.
