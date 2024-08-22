@@ -1,5 +1,5 @@
 # PRIDE-6 v2 muOS Overlays
-I didn't quite like the first version that I made as much as I was hoping I would. Enter, PRIDE-6 v2. An updated design with some extra overlays for Gameboy Color. I've also included the PRIDE-6 v1 overlays, just in case you'd like to have that option, but if you like v1 more than v2, feel free to head on over to the [v1 repository](https://github.com/otterbot/muOS-Overlays-PRIDE-6/tree/main).
+I didn't quite like the first version that I made as much as I was hoping I would. Enter, PRIDE-6 v2. An updated design with some extra overlays for Gameboy Color and Gameboy micro. I've also included the PRIDE-6 v1 overlays, just in case you'd like to have that option, but if you like v1 more than v2, feel free to head on over to the [v1 repository](https://github.com/otterbot/muOS-Overlays-PRIDE-6/tree/main).
 
 Included are Gameboy Advance SP and Gameboy Color overlays with normal and holo-style bezels, with and without grids, with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
